@@ -16,7 +16,7 @@ Win32 programming refers to the development of applications for the Microsoft Wi
 - <a href="https://github.com/RaviTambade/WindowsProgramming/blob/main/notes/commoncontrols.md">Common Controls </a>
 - <a href="https://github.com/RaviTambade/WindowsProgramming/blob/main/notes/toolbarstatusbar.md"> Using Toolbar and Statusbar</a>
 - <a href="https://github.com/RaviTambade/WindowsProgramming/blob/main/notes/subclassing.md"> Sublcassing in Win32</a>
-- <a href="https://github.com/RaviTambade/WindowsProgramming/blob/main/notes/subclassing.md"> Dialog Boxes</a>
+- <a href="https://github.com/RaviTambade/WindowsProgramming/blob/main/notes/dialogboxes.md"> Dialog Boxes</a>
 - <a href="https://github.com/RaviTambade/WindowsProgramming/blob/main/notes/fileio.md"> File I/O</a>
 - <a href="https://github.com/RaviTambade/WindowsProgramming/blob/main/notes/memorymappedfile.md">Memory Mapped Files</a>
 - <a href="https://github.com/RaviTambade/WindowsProgramming/blob/main/notes/stack.md"> Stack Memory</a>
